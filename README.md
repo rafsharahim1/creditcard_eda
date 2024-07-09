@@ -30,4 +30,3 @@ This project demonstrates effective use of data science techniques to tackle fin
 - seaborn
 - scikit-learn
 
-]
